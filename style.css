@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+ div#head { color: rgb(139, 7, 247); font-size: 17px; margin: 3px 1px 1px 70%; }
+
+  #redesocial{ top: 1px;    }
+
+ body { background-image:  linear-gradient(rgb(54, 248, 28), rgb(5, 21, 247), rgb(255, 230, 0), rgb(121, 6, 252)); font-size: 15px; font-feature-settings:Georgia,'Times New Roman',Times, serif;   font-family: Arial, sans-serif;     text-align: justify;   }
+
+ h1 {color: rgb(15, 9, 65); background-color: rgb(146, 221, 140);}  
+ h2 { color: rgb(124, 238, 162); background-color: #72045a; text-align: center; } 
+ h3 { color: rgb(124, 238, 162); background-color: #72045a; text-align: center; } 
+ h4 {  margin: 2px 2px 2px 30%;    }
+
+ p { text-align: justify; color: rgb(00, 00, 00); 16px; margin: 2px 2px 2px 2px;  }
+
+    p#cpa{  color: rgb(0, 0, 0); background-color: #11f811; text-align: center; border: 5px solid rgb(46, 119, 4); border-radius: 20px; padding:15px;"
+    }
+    p#u{ color: rgb(243, 7, 66); background-color: #94f811; text-align: center; border: 1px solid rgb(46, 119, 4); border-radius: 10px; padding:2px;
+      width: 40%; font-size: 20px;
+    }
+
+    p#emp{ color: rgb(9, 5, 248); background-color: #b9f575; text-align: center; border: 2px solid rgb(46, 119, 4); border-radius: 10px; padding:10px;
+      width: 40%; font-size: 15px;
+    }
+
+
+
+
+    div.quadrado {  border: 10px solid rgb(57, 250, 9); border-radius: 10px; width: 90%; height: 100%; background-color:  rgb(148, 243, 148); background-position: center; background-size:auto;  background-attachment: fixed; margin: 20px;   }
+
+      /* left = esquerda e top */
+
+
+              
+ /*foramtaççao do menu  Obs: este exemplo de posiçao de flutuação do menu == >> position: absolute;
+        top: 100px;
+        left: 100px;} << */
+
+     nav#menu ul {list-style: none;
+     text-transform: uppercase;}
+     nav#menu li { display: inline-block;
+        background-color:  rgb(146, 221, 140);
+        padding: 10px; 
+        margin: 5px; font-weight: bold; }
+
+
+        .container {
+          max-width: 960px;
+       
+          margin: 0 auto;
+          padding: 20px;}
+
+
+          header {
+            background-color: #035803ef;
+         
+            color: #fff;
+            padding: 20px;}
+
+      
+     /* Estilos da seção de destaque */
+     .hero {
+      background-image: url('background.jpg');
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+      padding: 100px 0;}  
+      
+      
+      /* Estilos dos botões */
+     .btn {
+      display: inline-block;
+   
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+   
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;}
+ 
+
+
+      .contato {
+        display: inline-block;
+     
+        background-color: #6205f7;
+        color: #0efc06;
+        padding: 10px 20px;
+     
+        text-decoration: none;
+        border-radius: 5px;
+        margin-top: 20px;  margin: 3px 1px 1px 50%;     }
+
+
+
+
+
+      .planos {
+  
+        background-color: #f4f4f4;
+        padding: 50px 0;
+        text-align: center;}
+   
+   
+        .plano { 
+    
+        display: inline-block;
+         background-color: #fff;
+        padding: 20px;
+        margin: 20px;
+     
+        text
+        text-align: left;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);}
+
+  
+
+        /* Estilos do rodapé */
+       footer {
+         background-color: #666565;
+        color: #fff;
+     
+         padding: 15px;
+        text-align: center;   }
+        
+        div#rede { color: rgb(139, 7, 247); font-size: 15px; margin: 3px 1px 1px 75%;}
+        
